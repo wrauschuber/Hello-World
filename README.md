@@ -7,10 +7,10 @@
 5. Additional Documentation
 6. Versioning
 ## **1. Project Title**
-*Hello Wolrd Sample*
+*Hello World Sample*
 ## **2. Description**
-- Practice using basic functions of GitHub
-- Create a sample repository
+- Practice using ==basic functions of GitHub==
+- Create a ==sample repository==
 ## **How to Run Program**
 ```text
 Hello_World/
@@ -23,7 +23,7 @@ Hello_World/
  
  ## **Files Used**
  - Did you use any datafiles?
- - List filenames
+ - List file names
  - Where you obtained files
  - What is contained in data files?
  - Datafile considerations 

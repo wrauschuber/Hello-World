@@ -9,8 +9,8 @@
 ## **1. Project Title**
 *Hello World Sample*
 ## **2. Description**
-- Practice using ==basic functions of GitHub==
-- Create a ==sample repository==
+- Practice using ==basic functions of GitHub==.
+- Create a ==sample repository==.
 ## **How to Run Program**
 ```text
 Hello_World/

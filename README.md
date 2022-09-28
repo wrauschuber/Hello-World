@@ -11,7 +11,7 @@
 ## **2. Description**
 - Practice using basic functions of GitHub.
 - Create a sample repository.
-## **How to Run Program**
+## **3. How to Run Program**
 ```text
 Hello_World/
 └── 
@@ -21,7 +21,7 @@ Hello_World/
     │── examples.html
  ```
  
- ## **Files Used**
+ ## **4. Files Used**
  - Did you use any datafiles?
  - List file names
  - Where you obtained files
@@ -29,10 +29,10 @@ Hello_World/
  - Datafile considerations 
  - Links to files 
 
-## **Additional Documentation**
+## **5. Additional Documentation**
 No **ADDITIONAL DOCUMENTATION** at this time
  
-## **Versioning**
+## **6. Versioning**
 - No *version changes*
 - Will update in the case of *new version changes*
  
